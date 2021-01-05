@@ -1,0 +1,10 @@
+.box {
+  display: flex;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  height: 300px;
+  width: 400px;
+}
