@@ -1,2 +1,3 @@
 # MatchGame-JS
-MatchGame in Vanilla JavaScript
+
+Web based Matching Game built with Vanilla JavaScript.
